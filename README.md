@@ -1,5 +1,7 @@
 # Smart Leads Dashboard
 
+## 🎥 Demo Video
+Watch the project walkthrough here: [Loom Demo Video](https://drive.google.com/file/d/1ykghqhBYYBlXveIQE32KKzUqQUaNyRYF/view?usp=sharing)
 ## 🚀 Overview
 A full-stack CRM-style dashboard to manage leads, authentication, and analytics.
 
